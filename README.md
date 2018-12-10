@@ -1,5 +1,3 @@
 # SampleProject
 Hello All
-
-
-
+Hi
